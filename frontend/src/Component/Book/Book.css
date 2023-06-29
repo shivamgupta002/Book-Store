@@ -1,0 +1,47 @@
+.home {
+    text-align: center;
+    margin-top: 13rem;
+}
+
+img {
+    margin-top: 10px;
+    height: 17.5rem;
+    width: 98%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    list-style: none;
+
+}
+
+.card {
+    width: 330px;
+    padding: 0 20px;
+    box-shadow: 5px 5px 10px #ccc;
+}
+
+h1 {
+    text-transform: capitalize;
+    text-align: center;
+    color: #152d36;
+    margin-bottom: -40px;
+    text-decoration: underline;
+}
+
+.contact {
+    text-transform: capitalize;
+}
+
+h2 {
+    color: #152d36;
+    text-align: center;
+}
+
+.name {
+    color: #3e7697;
+    /* font-weight: 900; */
+}
